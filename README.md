@@ -40,15 +40,12 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 ## Screenshots
 
-<<<<<<< HEAD
-![App Screenshot](flair_homepage.png)
-![App Screenshot](flair_checkout.png)
-![App Screenshot](stripe_checkout.png)
+
 =======
 ![App Screenshot](sparklecarthomepage.png)
 ![App Screenshot](description.png)
 ![App Screenshot](checkout.png)
->>>>>>> 6b7af8d (updated readme)
+
 
 
 
